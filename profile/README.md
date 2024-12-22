@@ -36,6 +36,7 @@
 ### 🛡️ Sécurité & DevOps
 > *Sécurisez vos applications, maîtrisez l'infrastructure*
 - [**CyberOpsHub**](https://github.com/CyberOpsHub)
+  
   - Challenges & CTF
   - Guides de sécurité applicative
   - Configuration DevSecOps
@@ -47,6 +48,7 @@
 ### 🤖 Automatisation
 > *Automatisez les tâches répétitives, gagnez en efficacité*
 - [**SmartBot-Guild**](https://github.com/SmartBot-Guild)
+  
   - Discord Bots (Modération, Support)
   - GitHub Actions & Workflows
   - Scripts d'automatisation cursus
@@ -57,6 +59,7 @@
 ### 📚 Collection de Ressources
 > *Une bibliothèque de projets optimisés*
 - [**dev-forks-collection**](https://github.com/dev-forks-collection)
+  
   - Collections d'outils essentiels
   - Ressources pédagogiques améliorées
   - Bibliothèques modifiées cursus
@@ -66,6 +69,7 @@
 ### 📘 Guidelines
 > *Excellez dans votre parcours 42*
 - [**42-guidelines**](https://github.com/404)
+  
   - Guides par cercle (0-6)
   - Documentation technique détaillée
   - Solutions validées et commentées
@@ -77,6 +81,7 @@
 ### 💼 Carrière & Progression
 > *Construisez votre avenir professionnel*
 - [**42-Career-Hub**](https://github.com/42-Career-Hub)
+  
   - Templates CV tech
   - Préparation entretiens techniques
   - Ressources portfolio dev
@@ -87,6 +92,7 @@
 ### 🎓 Formation Continue
 > *Perfectionnez vos compétences*
 - [**42-Learning**](https://github.com/42-Learning)
+  
   - Clean Code Guidelines
   - Design Patterns en C/C++
   - Architecture logicielle
@@ -97,6 +103,7 @@
 ### 🛠️ Environnement Dev
 > *Optimisez votre environnement*
 - [**42-DevTools**](https://github.com/42-DevTools)
+  
   - Configurations IDE (VSCode, Vim)
   - Scripts d'environnement 42
   - Outils de productivité
