@@ -3,7 +3,7 @@
 # 42 Academy ✨
 
 [![Discord](https://img.shields.io/discord/1234567890?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/42-academy)
-[![GitHub Organization](https://img.shields.io/badge/GitHub-Organization-181717?logo=github)](https://github.com/42-academy)
+[![GitHub Organization](https://img.shields.io/badge/GitHub-Organization-181717?logo=github)](https://github.com/CyberOpsHub)
 [![Active Projects](https://img.shields.io/badge/Active_Projects-42+-purple)]()
 [![Community](https://img.shields.io/badge/Community-1000+-blue)]()
 
