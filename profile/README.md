@@ -31,7 +31,7 @@
 ## 📘 À propos de 42
 
 42 est une école de programmation innovante, fondée sur l'apprentissage par les pairs et les projets pratiques. Sans professeurs traditionnels, les étudiants progressent à travers un cursus gamifié, développant non seulement des compétences techniques, mais aussi des soft skills essentielles comme l'autonomie, la collaboration et la résolution de problèmes.
-<br>
+<br><br><br>
 <div align="center">
     <a href="https://42lausanne.ch/" target="_blank"><img src="https://42lausanne.ch/wp-content/uploads/2021/01/42_logo.svg" alt="Ecole 42 Logo" width="200"></a>
 </div>
