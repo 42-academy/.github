@@ -57,7 +57,7 @@
 <p><strong>42-academy</strong> est structurée pour vous offrir tout ce dont vous avez besoin pour réussir vos projets :</p>
 <ol>
     <li><strong>Dépôts et ressources</strong> : Des répertoires avec des templates, des tutoriels, et des guides pour chaque projet.</li>
-    <li><strong>Forum et discussions</strong> : Utilisez le <a href="https://discord.com/invite/42-academy">Discord de 42-academy</a> pour poser vos questions et échanger des idées.</li>
+    <li><strong>Forum et discussions</strong> : Utilisez le <a href="https://discord.gg/5Ezmt87Suv">Discord de 42-academy</a> pour poser vos questions et échanger des idées.</li>
     <li><strong>Ressources supplémentaires</strong> : Accédez à des tutoriels externes, des articles, et des guides pour approfondir vos connaissances en programmation.</li>
 </ol>
 
