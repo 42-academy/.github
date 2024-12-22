@@ -55,11 +55,11 @@
 ### 📚 Collection de Ressources
 > *Une bibliothèque de projets optimisés*
 - [**dev-forks-collection**](https://github.com/dev-forks-collection)
-  - Forks optimisés projets 42
   - Collections d'outils essentiels
   - Ressources pédagogiques améliorées
   - Bibliothèques modifiées cursus
   - Debuggers customisés
+  - jeux educatif
     
 ### 📘 Projets & Formation
 > *Excellez dans votre parcours 42*
