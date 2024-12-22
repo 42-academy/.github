@@ -153,6 +153,6 @@ git push origin feature/votre-contribution
 
 ---
 
-<sub>Fait avec ❤️ par la communauté 42</sub>
+<sub>Fait avec ❤️ par la communauté 42-academy</sub>
 
 </div>
