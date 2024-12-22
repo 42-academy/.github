@@ -152,17 +152,8 @@ git commit -m "✨ Ajout de votre contribution"
 # Soumettez votre PR
 git push origin feature/votre-contribution
 ```
-
-<div align="center">
-
-## 📞 Restons Connectés
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/42-academy)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/42-academy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/company/42-academy)
-
+<br><br>
 ---
-
+<div align="center">
 <sub>Fait avec ❤️ par la communauté 42-academy</sub>
-
 </div>
