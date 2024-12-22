@@ -125,7 +125,7 @@
 
 1. **Rejoignez la communauté**
 
-[![Discord](https://img.shields.io/badge/Discord-ver_la_piscine_et_au_dela-5865F2?logo=discord&logoColor=white)](https://discord.gg/5Ezmt87Suv)
+      [![Discord](https://img.shields.io/badge/Discord-Vers_le_Cursus_et_l'au_delà-5865F2?logo=discord&logoColor=white)](https://discord.gg/5Ezmt87Suv)
 
 3. **Explorez nos ressources**
    - 📚 Documentation technique
