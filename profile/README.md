@@ -63,7 +63,7 @@
   - Debuggers customisés
   - jeux educatif
     
-### 📘 Guidelines & Formation
+### 📘 Guidelines
 > *Excellez dans votre parcours 42*
 - [**42-Projects**](https://github.com/404)
   - Guides par cercle (0-6)
