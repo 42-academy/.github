@@ -188,7 +188,7 @@ git push origin feature/votre-contribution
 
 [Plus de FAQ](https://github.com/42-academy/faq)
 
-<br><br>
+<br>
 ---
 <div align="center">
 <sub>Fait avec ❤️ par la communauté 42-academy</sub>
