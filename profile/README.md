@@ -114,14 +114,15 @@
 ## 🌟 Commencez l'Aventure
 
 1. **Rejoignez la communauté**
-   [![Discord](https://img.shields.io/discord/1234567890?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/5Ezmt87Suv)
 
-2. **Explorez nos ressources**
+[![Discord](https://img.shields.io/badge/Discord-ver_la_piscine_et_au_dela-5865F2?logo=discord&logoColor=white)](https://discord.gg/5Ezmt87Suv)
+
+3. **Explorez nos ressources**
    - 📚 Documentation technique
    - 🔧 Outils spécialisés
    - 📖 Guides pratiques
 
-3. **Contribuez à l'écosystème**
+4. **Contribuez à l'écosystème**
    - Partagez votre expérience
    - Proposez des améliorations
    - Enrichissez la communauté
