@@ -34,64 +34,80 @@
 ### 🛡️ Sécurité & DevOps
 > *Sécurisez vos applications, maîtrisez l'infrastructure*
 - [**CyberOpsHub**](https://github.com/CyberOpsHub)
-  - Sécurité applicative
-  - DevSecOps
-  - Infrastructure sécurisée
-  - Bonnes pratiques
+  - Challenges & CTF
+  - Guides de sécurité applicative
+  - Configuration DevSecOps
+  - Outils de pentest
+  - Labs d'apprentissage
+  - Documentation OWASP
 
 ### 🤖 Automatisation
 > *Automatisez les tâches répétitives, gagnez en efficacité*
 - [**SmartBot-Guild**](https://github.com/SmartBot-Guild)
-  - Bots Discord & GitHub
-  - Scripts d'automatisation
-  - Workflows CI/CD
-  - Monitoring
+  - Discord Bots (Modération, Support)
+  - GitHub Actions & Workflows
+  - Scripts d'automatisation cursus
+  - Outils de peer-evaluation
+  - Systèmes de monitoring
+  - Intégrations API 42
 
-### 📚 Ressources & Outils
-> *Une collection soigneusement sélectionnée*
+### 📚 Collection de Ressources
+> *Une bibliothèque de projets optimisés*
 - [**dev-forks-collection**](https://github.com/dev-forks-collection)
-  - Forks optimisés
-  - Outils améliorés
-  - Ressources externes
+  - Forks optimisés projets 42
+  - Collections d'outils essentiels
+  - Ressources pédagogiques améliorées
+  - Bibliothèques modifiées cursus
 
 ### 📘 Projets & Formation
 > *Excellez dans votre parcours 42*
 - [**42-Projects**](https://github.com/42-Projects)
-  - Guides par projet
-  - Solutions commentées
-  - Ressources pédagogiques
+  - Guides par cercle (0-6)
+  - Documentation technique détaillée
+  - Solutions validées et commentées
+  - Tests unitaires & débogage
+  - Best practices par projet
+  - Astuces d'optimisation
 
 ### 💼 Carrière & Progression
 > *Construisez votre avenir professionnel*
 - [**42-Career-Hub**](https://github.com/42-Career-Hub)
-  - Préparation entretiens
-  - Portfolio builder
-  - Suivi de progression
+  - Templates CV tech
+  - Préparation entretiens techniques
+  - Ressources portfolio dev
+  - Suivi de progression cursus
+  - Guides stages/alternance
+  - Veille technologique
 
 ### 🎓 Formation Continue
 > *Perfectionnez vos compétences*
 - [**42-Learning**](https://github.com/42-Learning)
-  - Clean code
-  - Design patterns
-  - Architecture
-  - Algorithmes
+  - Clean Code Guidelines
+  - Design Patterns en C/C++
+  - Architecture logicielle
+  - Structures de données
+  - Algorithmes avancés
+  - Documentation technique
 
 ### 🛠️ Environnement Dev
 > *Optimisez votre environnement*
 - [**42-DevTools**](https://github.com/42-DevTools)
-  - Configurations
-  - Scripts utilitaires
-  - Outils de debug
+  - Configurations IDE (VSCode, Vim)
+  - Scripts d'environnement 42
+  - Outils de productivité
+  - Templates de projet
+  - Debuggers customisés
+  - Profiling & Optimisation
 
-## ⭐ En Chiffres
+## ⭐ Notre Impact
 
 <div align="center">
 
-| 📚 **Ressources** | 🤝 **Communauté** | 🎯 **Couverture** |
+| 📚 **Ressources** | 🤝 **Communauté** | 🎯 **Innovation** |
 |:----------------:|:-----------------:|:---------------:|
-| +500 Guides | +1000 Membres | 42 Projets |
-| +200 Tutoriels | Support 24/7 | 7 Organisations |
-| +100 Templates | Mentorat actif | 100% Open Source |
+| Projets Couverts | Support Actif | Open Source |
+| Guides Détaillés | Mentorat | Contributions |
+| Templates & Outils | Entre-aide | Amélioration Continue |
 
 </div>
 
@@ -101,14 +117,14 @@
    [![Discord](https://img.shields.io/discord/1234567890?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/42-academy)
 
 2. **Explorez nos ressources**
-   - 📚 Documentation par projet
-   - 🔧 Outils et scripts
-   - 📖 Guides techniques
+   - 📚 Documentation technique
+   - 🔧 Outils spécialisés
+   - 📖 Guides pratiques
 
-3. **Participez activement**
+3. **Contribuez à l'écosystème**
    - Partagez votre expérience
-   - Contribuez aux projets
-   - Aidez la communauté
+   - Proposez des améliorations
+   - Enrichissez la communauté
 
 ## 🤝 Comment Contribuer
 
