@@ -15,7 +15,7 @@
 
 
 <p align="center">
-  <img src="images/scifi_room.gif" alt="Welcome to my GitHub profile!">
+  <img src="images/42_academy_logo.png" alt="Welcome to my GitHub profile!">
 </p>
 
 ---
