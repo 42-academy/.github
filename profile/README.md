@@ -14,9 +14,9 @@
 </div>
 
 
-<p align="center">
-  <img src="images/42_academy_logo.png" alt="Welcome to my GitHub profile!">
-</p>
+<div align="center">
+<img src="./images/42_academy_logo.png" alt="42 Academy Logo">
+</div>
 
 ---
 
