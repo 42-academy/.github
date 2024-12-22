@@ -139,11 +139,10 @@
 <!-- Key Resources Section -->
 <h2 id="ressources-clés">🔧 Ressources clés</h2>
 <ul>
-    <li><a href="https://github.com/Infinity42/42-resources">42-resources</a> : Des outils, des tutoriels et des templates pour vos projets.</li>
-    <li><a href="https://github.com/Infinity42/42-wiki">42-wiki</a> : Un espace collaboratif pour partager des astuces et des notes.</li>
-    <li><a href="https://github.com/Infinity42/sandbox">sandbox</a> : Un dépôt libre pour expérimenter et apprendre.</li>
-    <li><a href="https://github.com/Infinity42/team-projects">team-projects</a> : Réalisations collaboratives telles que `minishell` ou `cub3d`.</li>
-    <li><a href="https://github.com/Infinity42/42-exercises">42-exercises</a> : Des exercices pratiques pour renforcer vos compétences.</li>
+    <li><a href="https://github.com/dev-forks-collection">dev-forks-collection </a> : Des forks d outils utils et indispenable</li>
+    <li><a href="https://github.com/SmartBot-Guild">SmartBot-Guild</a> : Un espace collaboratif pour partager des bots pour automatiser les taches les plus recurrente de notre cursus</li>
+    <li><a href="https://github.com/Infinity42/42-exercises">Game-learning</a> : une collection de jeux interactif pour renforcer vos compétences.</li>
+    <li><a href="https://github.com/CyberOpsHub">CyberOpsHub</a> : Un espace dedier a la cyebrsecuriter et au bonne pratique que vous devez mettre en place en temps que devlopeur.</li>
 </ul>
 
 <hr />
