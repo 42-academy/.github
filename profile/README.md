@@ -5,7 +5,7 @@
 [![GitHub Organization](https://img.shields.io/badge/GitHub-CyberOpsHub-181717?logo=github)](https://github.com/CyberOpsHub)
 [![GitHub Organization](https://img.shields.io/badge/GitHub-SmartBot_Guild-181717?logo=github)](https://github.com/SmartBot-Guild)
 [![GitHub Organization](https://img.shields.io/badge/GitHub-dev_forks_collection-181717?logo=github)](https://github.com/dev-forks-collection)
-[![GitHub Organization](https://img.shields.io/badge/GitHub-42_Projects-181717?logo=github)](https://github.com/42-Projects)
+[![GitHub Organization](https://img.shields.io/badge/GitHub-42_Projects-181717?logo=github)](https://github.com/404)
 [![GitHub Organization](https://img.shields.io/badge/GitHub-42_Career_Hub-181717?logo=github)](https://github.com/42-Career-Hub)
 [![GitHub Organization](https://img.shields.io/badge/GitHub-42_Learning-181717?logo=github)](https://github.com/42-Learning)
 [![GitHub Organization](https://img.shields.io/badge/GitHub-42_DevTools-181717?logo=github)](https://github.com/42-DevTools)
