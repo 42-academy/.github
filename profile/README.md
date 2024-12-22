@@ -5,7 +5,7 @@
 [![Discord](https://img.shields.io/discord/1234567890?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/42-academy)
 [![GitHub Organization](https://img.shields.io/badge/GitHub-CyberOpsHub-181717?logo=github)](https://github.com/CyberOpsHub)
 [![GitHub Organization](https://img.shields.io/badge/GitHub-SmartBot-Guild-181717?logo=github)](https://github.com/SmartBot-Guild)
-[![GitHub Organization](https://img.shields.io/badge/GitHub-odev-forks-collection-181717?logo=github)](https://github.com/dev-forks-collection)
+[![GitHub Organization](https://img.shields.io/badge/GitHub-dev-forks-collection-181717?logo=github)](https://github.com/dev-forks-collection)
 [![Active Projects](https://img.shields.io/badge/Active_Projects-42+-purple)]()
 [![Community](https://img.shields.io/badge/Community-1000+-blue)]()
 
