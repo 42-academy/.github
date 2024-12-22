@@ -1,6 +1,8 @@
 <div align="center">
 
 # 42 Academy ✨
+---
+<br>
 
 [![GitHub Organization](https://img.shields.io/badge/GitHub-CyberOpsHub-181717?logo=github)](https://github.com/CyberOpsHub)
 [![GitHub Organization](https://img.shields.io/badge/GitHub-SmartBot_Guild-181717?logo=github)](https://github.com/SmartBot-Guild)
@@ -10,36 +12,40 @@
 [![GitHub Organization](https://img.shields.io/badge/GitHub-42_Learning-181717?logo=github)](https://github.com/42-Learning)
 [![GitHub Organization](https://img.shields.io/badge/GitHub-42_DevTools-181717?logo=github)](https://github.com/42-DevTools)
 
+<br>
+
 *Une communauté d'excellence pour les étudiants de 42*
 </div>
 
-
+<br>
 <div align="center">
 <img src="https://github.com/42-academy/images/blob/c72b2be0938b3b5d6673ba93ea5f60f0caedb010/42_academy_logo.png" alt="42 Academy Logo">
 </div>
 
+
 ---
 
 > *"Together we code, together we grow"* 🌱
+<br>
 
 ## 📘 À propos de 42
 
 42 est une école de programmation innovante, fondée sur l'apprentissage par les pairs et les projets pratiques. Sans professeurs traditionnels, les étudiants progressent à travers un cursus gamifié, développant non seulement des compétences techniques, mais aussi des soft skills essentielles comme l'autonomie, la collaboration et la résolution de problèmes.
 
+<br>
+
 ## 🎯 Notre Vision
 42 Academy est un écosystème vivant créé par et pour les étudiants de 42. Notre mission est de transformer votre parcours d'apprentissage en une expérience extraordinaire, en rassemblant les meilleures ressources et outils au sein d'organisations spécialisées.
 
+<br>
 <div align="center">
 
 `🔥 PASSION` • `🤝 ENTRAIDE` • `💡 INNOVATION` • `🌟 EXCELLENCE`
 
 </div>
+<br>
 
 ## 🚀 Notre Écosystème
-
-<div align="center">
-<img src="https://github.com/42-academy/images/blob/main/42_ecosystem.png" alt="42 Academy Ecosystem" width="600">
-</div>
 
 ### 🛡️ Sécurité & DevOps
 > *Sécurisez vos applications, maîtrisez l'infrastructure*
@@ -117,8 +123,11 @@
   - Outils de productivité
   - Profiling & Optimisation
 
+<br>
+
 ## ⭐ Notre Impact
 
+<br>
 <div align="center">
 
 | 📚 **Ressources** | 🤝 **Communauté** | 🎯 **Innovation** |
@@ -128,6 +137,8 @@
 | Templates & Outils | Entre-aide | Amélioration Continue |
 
 </div>
+
+<br>
 
 ## 🌟 Commencez l'Aventure
 
@@ -145,6 +156,8 @@
    - Proposez des améliorations
    - Enrichissez la communauté
 
+<br>
+
 ## 🤝 Comment Contribuer
 
 ```bash
@@ -160,6 +173,7 @@ git commit -m "✨ Ajout de votre contribution"
 # Soumettez votre PR
 git push origin feature/votre-contribution
 ```
+<br>
 
 ## ❓ FAQ pour Débutants
 
