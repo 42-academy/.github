@@ -114,7 +114,7 @@
 ## 🌟 Commencez l'Aventure
 
 1. **Rejoignez la communauté**
-   [![Discord](https://img.shields.io/discord/1234567890?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/42-academy)
+   [![Discord](https://img.shields.io/discord/1234567890?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/5Ezmt87Suv)
 
 2. **Explorez nos ressources**
    - 📚 Documentation technique
