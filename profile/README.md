@@ -68,7 +68,7 @@
 <p>Le cursus 42 est divisé en cercles qui regroupent des projets à réaliser. Voici un aperçu des cercles et des projets associés :</p>
 <br>
 <p align="center">
-  <a href="https://github.com/dev-forks-collection/42-holygraph">🔗 LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/dev-forks-collection/42-holygraph">42-holygraph</a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <h3>🔵 Cercle 0</h3>
 <ul>
