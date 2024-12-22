@@ -65,7 +65,7 @@
     
 ### 📘 Guidelines
 > *Excellez dans votre parcours 42*
-- [**42-Projects**](https://github.com/404)
+- [**42-guidelines**](https://github.com/404)
   - Guides par cercle (0-6)
   - Documentation technique détaillée
   - Solutions validées et commentées
