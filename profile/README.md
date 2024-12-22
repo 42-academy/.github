@@ -1,62 +1,111 @@
-# 42-academy ✨
+<div align="center">
 
-> "Together we code, together we grow"
+# 42 Academy ✨
 
-## 🎯 Notre Vision
+[![Discord](https://img.shields.io/discord/1234567890?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/42-academy)
+[![GitHub Organization](https://img.shields.io/badge/GitHub-Organization-181717?logo=github)](https://github.com/42-academy)
+[![Active Projects](https://img.shields.io/badge/Active_Projects-42+-purple)]()
+[![Community](https://img.shields.io/badge/Community-1000+-blue)]()
 
-42-academy est un écosystème complet conçu pour enrichir votre parcours à 42. Notre objectif est de vous fournir toutes les ressources nécessaires pour devenir un développeur complet, au-delà du cursus standard.
+*Une communauté d'excellence pour les étudiants de 42*
 
-## 🗺️ Nos Espaces
+<img src="/api/placeholder/800/400" alt="42 Academy Banner">
 
-### 📚 Formation Technique
-- [42-cursus](https://github.com/Infinity42/42-cursus)
-  - Ressources et guides pour chaque projet
-  - Solutions commentées et bonnes pratiques
-  - Tutoriels vidéo et documentation
-
-### 🛠️ Développement Professionnel
-- [dev-mastery](https://github.com/Infinity42/dev-mastery)
-  - Clean Code & Patterns de conception
-  - Tests unitaires et intégration continue
-  - Revues de code et méthodologies agiles
-
-### 🔒 Sécurité & DevOps
-- [CyberOpsHub](https://github.com/CyberOpsHub)
-  - Sécurité applicative
-  - Infrastructure et déploiement
-  - Monitoring et maintenance
-
-### 🤖 Automatisation
-- [SmartBot-Guild](https://github.com/SmartBot-Guild)
-  - Scripts d'automatisation
-  - Intégrations Discord & GitHub
-  - Outils de productivité
-
-### 💼 Préparation Professionnelle
-- [tech-career](https://github.com/Infinity42/tech-career)
-  - Préparation aux entretiens techniques
-  - Construction de portfolio
-  - Veille technologique
-
-### 🎮 Apprentissage Ludique
-- [42-exercises](https://github.com/Infinity42/42-exercises)
-  - Défis de programmation
-  - Projets pratiques
-  - Hackathons internes
-
-## 🤝 Communauté
-
-- **Discord**: Échanges et support quotidien
-- **Événements**: Workshops et conférences
-- **Mentorat**: Système de parrainage
-
-## 📱 Nous Rejoindre
-
-1. [Discord Community](https://discord.gg/42-academy)
-2. [GitHub Organization](https://github.com/Infinity42)
-3. Choisissez vos espaces d'intérêt
-4. Commencez à contribuer!
+</div>
 
 ---
 
-*42-academy: Par la communauté, pour la communauté* 🌟
+> *"Together we code, together we grow"* 🌱
+
+## 🎯 Notre Vision
+
+42 Academy est bien plus qu'une simple collection de ressources - c'est un écosystème vivant créé par et pour les étudiants de 42. Notre mission est de transformer votre parcours d'apprentissage en une expérience extraordinaire.
+
+<div align="center">
+
+`🔥 PASSION` • `🤝 ENTRAIDE` • `💡 INNOVATION` • `🌟 EXCELLENCE`
+
+</div>
+
+## 🚀 Nos Espaces
+
+### 🎓 Formation Technique
+> *Maîtrisez chaque projet, dépassez les attentes*
+- [**42-cursus**](https://github.com/Infinity42/42-cursus) - Ressources complètes pour le cursus
+- [**dev-mastery**](https://github.com/Infinity42/dev-mastery) - Perfectionnement technique
+- [**CyberOpsHub**](https://github.com/CyberOpsHub) - Sécurité & DevOps
+
+### 🛠️ Outils & Automatisation
+> *Optimisez votre workflow, gagnez en efficacité*
+- [**SmartBot-Guild**](https://github.com/SmartBot-Guild) - Bots & Automatisation
+- [**dev-setup**](https://github.com/Infinity42/dev-setup) - Configuration & Environnement
+- [**42-toolbox**](https://github.com/Infinity42/toolbox) - Scripts & Utilitaires
+
+### 📈 Progression & Carrière
+> *Construisez votre futur*
+- [**tech-career**](https://github.com/Infinity42/tech-career) - Préparation professionnelle
+- [**42-tracker**](https://github.com/Infinity42/42-tracker) - Suivi de progression
+- [**learning-path**](https://github.com/Infinity42/learning) - Parcours personnalisé
+
+## ⭐ Highlights
+
+<div align="center">
+
+| 📚 **Ressources** | 🤝 **Communauté** | 🎯 **Objectifs** |
+|:----------------:|:-----------------:|:---------------:|
+| +500 Guides | +1000 Membres | 42 Projets couverts |
+| +200 Tutoriels | Sessions quotidiennes | Support 24/7 |
+| +100 Templates | Mentorat actif | Mise à jour continue |
+
+</div>
+
+## 🌟 Commencez l'Aventure
+
+1. **Rejoignez la communauté**
+   ```bash
+   # 1. Rejoignez notre Discord
+   https://discord.gg/42-academy
+   
+   # 2. Explorez nos repositories
+   https://github.com/42-academy
+   ```
+
+2. **Choisissez votre voie**
+   - 🎯 Cursus standard
+   - 🚀 Fast-track avancé
+   - 🔍 Spécialisation
+
+3. **Contribuez et évoluez**
+   - Participez aux projets
+   - Partagez vos connaissances
+   - Grandissez avec la communauté
+
+## 🤝 Contribuez
+
+```bash
+# Fork & Clone
+git clone https://github.com/YourUsername/42-academy.git
+
+# Create your branch
+git checkout -b feature/amazing-feature
+
+# Share your magic
+git commit -m "✨ Add amazing feature"
+
+# Submit your PR
+git push origin feature/amazing-feature
+```
+
+<div align="center">
+
+## 📞 Restons Connectés
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/42-academy)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/42-academy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/company/42-academy)
+
+---
+
+<sub>Fait avec ❤️ par la communauté 42</sub>
+
+</div>
