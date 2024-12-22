@@ -15,7 +15,7 @@
 
 
 <div align="center">
-<img src="./images/42_academy_logo.png" alt="42 Academy Logo">
+<img src="https://github.com/42-academy/images/blob/c72b2be0938b3b5d6673ba93ea5f60f0caedb010/42_academy_logo.png" alt="42 Academy Logo">
 </div>
 
 ---
