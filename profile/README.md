@@ -22,6 +22,10 @@
 
 > *"Together we code, together we grow"* 🌱
 
+## 📘 À propos de 42
+
+42 est une école de programmation innovante, fondée sur l'apprentissage par les pairs et les projets pratiques. Sans professeurs traditionnels, les étudiants progressent à travers un cursus gamifié, développant non seulement des compétences techniques, mais aussi des soft skills essentielles comme l'autonomie, la collaboration et la résolution de problèmes.
+
 ## 🎯 Notre Vision
 42 Academy est un écosystème vivant créé par et pour les étudiants de 42. Notre mission est de transformer votre parcours d'apprentissage en une expérience extraordinaire, en rassemblant les meilleures ressources et outils au sein d'organisations spécialisées.
 
@@ -32,6 +36,10 @@
 </div>
 
 ## 🚀 Notre Écosystème
+
+<div align="center">
+<img src="https://github.com/42-academy/images/blob/main/42_ecosystem.png" alt="42 Academy Ecosystem" width="600">
+</div>
 
 ### 🛡️ Sécurité & DevOps
 > *Sécurisez vos applications, maîtrisez l'infrastructure*
@@ -127,12 +135,12 @@
 
       [![Discord](https://img.shields.io/badge/Discord-Vers_le_Cursus_et_l'au_delà-5865F2?logo=discord&logoColor=white)](https://discord.gg/5Ezmt87Suv)
 
-3. **Explorez nos ressources**
+2. **Explorez nos ressources**
    - 📚 Documentation technique
    - 🔧 Outils spécialisés
    - 📖 Guides pratiques
 
-4. **Contribuez à l'écosystème**
+3. **Contribuez à l'écosystème**
    - Partagez votre expérience
    - Proposez des améliorations
    - Enrichissez la communauté
@@ -152,6 +160,20 @@ git commit -m "✨ Ajout de votre contribution"
 # Soumettez votre PR
 git push origin feature/votre-contribution
 ```
+
+## ❓ FAQ pour Débutants
+
+- **Q: Comment commencer avec 42 Academy ?**
+  R: Rejoignez notre Discord, explorez nos repositories GitHub, et n'hésitez pas à poser des questions dans nos forums communautaires.
+
+- **Q: Faut-il être étudiant à 42 pour utiliser ces ressources ?**
+  R: Bien que principalement destinées aux étudiants de 42, la plupart de nos ressources sont open-source et accessibles à tous les passionnés de programmation.
+
+- **Q: Comment puis-je contribuer si je suis débutant ?**
+  R: Commencez par explorer nos projets, signalez des bugs, proposez des améliorations de documentation, ou participez aux discussions. Chaque contribution compte !
+
+[Plus de FAQ](https://github.com/42-academy/faq)
+
 <br><br>
 ---
 <div align="center">
