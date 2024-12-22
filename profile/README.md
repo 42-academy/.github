@@ -40,7 +40,8 @@
   - Outils de pentest
   - Labs d'apprentissage
   - Documentation OWASP
-
+  - bugbounty
+    
 ### 🤖 Automatisation
 > *Automatisez les tâches répétitives, gagnez en efficacité*
 - [**SmartBot-Guild**](https://github.com/SmartBot-Guild)
@@ -58,7 +59,8 @@
   - Collections d'outils essentiels
   - Ressources pédagogiques améliorées
   - Bibliothèques modifiées cursus
-
+  - Debuggers customisés
+    
 ### 📘 Projets & Formation
 > *Excellez dans votre parcours 42*
 - [**42-Projects**](https://github.com/42-Projects)
@@ -68,6 +70,7 @@
   - Tests unitaires & débogage
   - Best practices par projet
   - Astuces d'optimisation
+  - Templates de projet
 
 ### 💼 Carrière & Progression
 > *Construisez votre avenir professionnel*
@@ -95,8 +98,6 @@
   - Configurations IDE (VSCode, Vim)
   - Scripts d'environnement 42
   - Outils de productivité
-  - Templates de projet
-  - Debuggers customisés
   - Profiling & Optimisation
 
 ## ⭐ Notre Impact
