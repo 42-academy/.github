@@ -5,7 +5,7 @@
 
 <!-- Mission Section -->
 <h2 id="mission">🚀 Mission</h2>
-<p><strong>42-academy</strong> est une organisation créée par et les étudiants de 42 pour ce soutenir tout au long de leur parcours. Notre objectif est de :</p>
+<p><strong>42-academy</strong> est une organisation créée par et pour les étudiants de 42 afin de ce soutenir mutuellement tout au long de leur cursus. Notre objectif est de :</p>
 <ul>
     <li>Fournir un espace d’entraide pour résoudre les défis du cursus et partager des solutions.</li>
     <li>Proposer des ressources pédagogiques, des outils, et des guides pour accompagner les étudiants dans leurs projets.</li>
@@ -47,7 +47,6 @@
     <li><strong>Projet</strong> : Un travail individuel ou en groupe à réaliser pendant le cursus. Ces projets sont évalués par des pairs.</li>
     <li><strong>Peer Review</strong> : Processus où les étudiants s’évaluent mutuellement en suivant des critères prédéfinis.</li>
     <li><strong>Norminette</strong> : Outil qui vérifie que votre code respecte les normes de style 42.</li>
-    <li><strong>Libft</strong> : Le premier projet de 42 qui consiste à recréer certaines fonctions de la bibliothèque standard du C.</li>
     <li><strong>Git</strong> : Outil pour gérer les versions et collaborer efficacement avec d’autres étudiants.</li>
 </ul>
 
@@ -67,7 +66,10 @@
 <!-- 42 Curriculum by Circle Section -->
 <h2 id="le-cursus-42-par-cercle">🔄 Le cursus 42 par cercle</h2>
 <p>Le cursus 42 est divisé en cercles qui regroupent des projets à réaliser. Voici un aperçu des cercles et des projets associés :</p>
-
+<br>
+<p align="center">
+  <a href="https://github.com/dev-forks-collection/42-holygraph">🔗 LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 <h3>🔵 Cercle 0</h3>
 <ul>
     <li><strong>Libft</strong> : Créer une bibliothèque de fonctions en C.</li>
