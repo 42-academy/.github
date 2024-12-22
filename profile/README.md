@@ -3,9 +3,12 @@
 # 42 Academy ✨
 
 [![GitHub Organization](https://img.shields.io/badge/GitHub-CyberOpsHub-181717?logo=github)](https://github.com/CyberOpsHub)
-[![GitHub Organization](https://img.shields.io/badge/GitHub-dev_forks_collection-181717?logo=github)](https://github.com/dev-forks-collection)
 [![GitHub Organization](https://img.shields.io/badge/GitHub-SmartBot_Guild-181717?logo=github)](https://github.com/SmartBot-Guild)
-
+[![GitHub Organization](https://img.shields.io/badge/GitHub-dev_forks_collection-181717?logo=github)](https://github.com/dev-forks-collection)
+[![GitHub Organization](https://img.shields.io/badge/GitHub-42_Projects-181717?logo=github)](https://github.com/42-Projects)
+[![GitHub Organization](https://img.shields.io/badge/GitHub-42_Career_Hub-181717?logo=github)](https://github.com/42-Career-Hub)
+[![GitHub Organization](https://img.shields.io/badge/GitHub-42_Learning-181717?logo=github)](https://github.com/42-Learning)
+[![GitHub Organization](https://img.shields.io/badge/GitHub-42_DevTools-181717?logo=github)](https://github.com/42-DevTools)
 
 *Une communauté d'excellence pour les étudiants de 42*
 
@@ -18,8 +21,7 @@
 > *"Together we code, together we grow"* 🌱
 
 ## 🎯 Notre Vision
-
-42 Academy est bien plus qu'une simple collection de ressources - c'est un écosystème vivant créé par et pour les étudiants de 42. Notre mission est de transformer votre parcours d'apprentissage en une expérience extraordinaire.
+42 Academy est un écosystème vivant créé par et pour les étudiants de 42. Notre mission est de transformer votre parcours d'apprentissage en une expérience extraordinaire, en rassemblant les meilleures ressources et outils au sein d'organisations spécialisées.
 
 <div align="center">
 
@@ -27,67 +29,101 @@
 
 </div>
 
-## 🚀 Nos Espaces
+## 🚀 Notre Écosystème
 
-### 🎓 Formation Technique
-> *Maîtrisez chaque projet, dépassez les attentes*
-- [**42-cursus**](https://github.com/Infinity42/42-cursus) - Ressources complètes pour le cursus
-- [**dev-mastery**](https://github.com/Infinity42/dev-mastery) - Perfectionnement technique
-- [**CyberOpsHub**](https://github.com/CyberOpsHub) - Sécurité & DevOps
+### 🛡️ Sécurité & DevOps
+> *Sécurisez vos applications, maîtrisez l'infrastructure*
+- [**CyberOpsHub**](https://github.com/CyberOpsHub)
+  - Sécurité applicative
+  - DevSecOps
+  - Infrastructure sécurisée
+  - Bonnes pratiques
 
-### 🛠️ Outils & Automatisation
-> *Optimisez votre workflow, gagnez en efficacité*
-- [**SmartBot-Guild**](https://github.com/SmartBot-Guild) - Bots & Automatisation
-- [**dev-setup**](https://github.com/Infinity42/dev-setup) - Configuration & Environnement
-- [**42-toolbox**](https://github.com/Infinity42/toolbox) - Scripts & Utilitaires
+### 🤖 Automatisation
+> *Automatisez les tâches répétitives, gagnez en efficacité*
+- [**SmartBot-Guild**](https://github.com/SmartBot-Guild)
+  - Bots Discord & GitHub
+  - Scripts d'automatisation
+  - Workflows CI/CD
+  - Monitoring
 
-### 📈 Progression & Carrière
-> *Construisez votre futur*
-- [**tech-career**](https://github.com/Infinity42/tech-career) - Préparation professionnelle
-- [**42-tracker**](https://github.com/Infinity42/42-tracker) - Suivi de progression
-- [**learning-path**](https://github.com/Infinity42/learning) - Parcours personnalisé
+### 📚 Ressources & Outils
+> *Une collection soigneusement sélectionnée*
+- [**dev-forks-collection**](https://github.com/dev-forks-collection)
+  - Forks optimisés
+  - Outils améliorés
+  - Ressources externes
 
-## ⭐ Highlights
+### 📘 Projets & Formation
+> *Excellez dans votre parcours 42*
+- [**42-Projects**](https://github.com/42-Projects)
+  - Guides par projet
+  - Solutions commentées
+  - Ressources pédagogiques
+
+### 💼 Carrière & Progression
+> *Construisez votre avenir professionnel*
+- [**42-Career-Hub**](https://github.com/42-Career-Hub)
+  - Préparation entretiens
+  - Portfolio builder
+  - Suivi de progression
+
+### 🎓 Formation Continue
+> *Perfectionnez vos compétences*
+- [**42-Learning**](https://github.com/42-Learning)
+  - Clean code
+  - Design patterns
+  - Architecture
+  - Algorithmes
+
+### 🛠️ Environnement Dev
+> *Optimisez votre environnement*
+- [**42-DevTools**](https://github.com/42-DevTools)
+  - Configurations
+  - Scripts utilitaires
+  - Outils de debug
+
+## ⭐ En Chiffres
 
 <div align="center">
 
-| 📚 **Ressources** | 🤝 **Communauté** | 🎯 **Objectifs** |
+| 📚 **Ressources** | 🤝 **Communauté** | 🎯 **Couverture** |
 |:----------------:|:-----------------:|:---------------:|
-| +500 Guides | +1000 Membres | 42 Projets couverts |
-| +200 Tutoriels | Sessions quotidiennes | Support 24/7 |
-| +100 Templates | Mentorat actif | Mise à jour continue |
+| +500 Guides | +1000 Membres | 42 Projets |
+| +200 Tutoriels | Support 24/7 | 7 Organisations |
+| +100 Templates | Mentorat actif | 100% Open Source |
 
 </div>
 
 ## 🌟 Commencez l'Aventure
 
 1. **Rejoignez la communauté**
-
    [![Discord](https://img.shields.io/discord/1234567890?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/42-academy)
-3. **Choisissez votre voie**
-   - 🎯 Cursus standard
-   - 🚀 Fast-track avancé
-   - 🔍 Spécialisation
 
-4. **Contribuez et évoluez**
-   - Participez aux projets
-   - Partagez vos connaissances
-   - Grandissez avec la communauté
+2. **Explorez nos ressources**
+   - 📚 Documentation par projet
+   - 🔧 Outils et scripts
+   - 📖 Guides techniques
 
-## 🤝 Contribuez
+3. **Participez activement**
+   - Partagez votre expérience
+   - Contribuez aux projets
+   - Aidez la communauté
+
+## 🤝 Comment Contribuer
 
 ```bash
-# Fork & Clone
-git clone https://github.com/YourUsername/42-academy.git
+# Choisissez votre organisation
+git clone https://github.com/42-academy/votre-projet.git
 
-# Create your branch
-git checkout -b feature/amazing-feature
+# Créez votre branche
+git checkout -b feature/votre-contribution
 
-# Share your magic
-git commit -m "✨ Add amazing feature"
+# Partagez votre travail
+git commit -m "✨ Ajout de votre contribution"
 
-# Submit your PR
-git push origin feature/amazing-feature
+# Soumettez votre PR
+git push origin feature/votre-contribution
 ```
 
 <div align="center">
