@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 Mission
-**42-academy** est une organisation créée pour soutenir les étudiants de 42 tout au long de leur parcours. Notre objectif est de :
+**42-academy** est une organisation créée par et les étudiants de 42 pour ce soutenir tout au long de leur parcours. Notre objectif est de :
 - Fournir un espace d’entraide pour résoudre les défis du cursus et partager des solutions.
 - Proposer des ressources pédagogiques, des outils, et des guides pour accompagner les étudiants dans leurs projets.
 - Créer une communauté dynamique permettant aux étudiants de progresser ensemble.
@@ -57,27 +57,42 @@ Voici quelques termes et concepts importants à connaître dans **42-academy** e
 ## 🔄 Le cursus 42 par cercle
 Le cursus 42 est divisé en cercles qui regroupent des projets à réaliser. Voici un aperçu des cercles et des projets associés :
 
-### 🔵 **Cercle 0 : Introduction au C**
+### 🔵 **Cercle 0**
 - **Libft** : Créer une bibliothèque de fonctions en C.
+
+### 🟢 **Cercle 01**
 - **Ft_printf** : Implémenter une fonction de formatage personnalisé.
-- **Get_next_line** : Lire une ligne d’un fichier ou d'un flux.
+- **Get_next_line** : Lire une ligne d’un fichier ou d'un flux.\
+- **Born2beroot** 
 
-### 🟢 **Cercle 1 : Approfondissement des fondamentaux**
-- **Shell** : Création d'un mini shell Unix.
-- **Fd** : Compréhension approfondie des descripteurs de fichiers.
+### 🟠 **Cercle 02**
+- **Fdf**
+- **Fractol
+- **so_long**
+- **push_swap**
+- **mini-talk**
+- **pipex**
 
-### 🟠 **Cercle 2 : Gestion de la mémoire**
-- **Malloc** : Implémentation de votre propre gestionnaire de mémoire dynamique.
-- **Valgrind** : Outil pour détecter les fuites mémoire.
+### 🔴 **Cercle 03**
+- **minishell**
+- **philosopher**
 
-### 🔴 **Cercle 3 : Réseaux et multi-threading**
-- **Net** : Introduction aux réseaux et à la programmation réseau.
-- **Thread** : Introduction au multi-threading et à la gestion des ressources partagées.
+### ⚪ **Cercle 04**
+- **netpractic**
+- **miniRT**
+- **cube3d**
+- **cpp modules 0 to 4**
 
-### ⚪ **Cercle 4 : Projets avancés et de groupe**
-- **MiniRT** : Création d'un moteur de rendu 3D.
-- **RT** : Implémentation d’un Ray Tracer.
 
+### ⚪ **Cercle 05**
+- **inception**
+- **webserv**
+- **ft_irc**
+
+### ⚪ **Cercle 06**
+- **trancandance**
+
+  
 ---
 
 ## 📜 Comment contribuer ?
