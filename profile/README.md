@@ -189,7 +189,7 @@ git push origin feature/votre-contribution
 - **Q: Comment puis-je contribuer si je suis débutant ?**
   R: Commencez par explorer nos projets, signalez des bugs, proposez des améliorations de documentation, ou participez aux discussions. Chaque contribution compte !
 
-[Plus de FAQ](https://github.com/42-academy/faq)
+[Plus de FAQ](https://discord.gg/5Ezmt87Suv)
 
 <br>
 
