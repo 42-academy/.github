@@ -2,12 +2,10 @@
 
 # 42 Academy ✨
 
-[![Discord](https://img.shields.io/discord/1234567890?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/42-academy)
 [![GitHub Organization](https://img.shields.io/badge/GitHub-CyberOpsHub-181717?logo=github)](https://github.com/CyberOpsHub)
-[![GitHub Organization](https://img.shields.io/badge/GitHub-SmartBot-Guild-181717?logo=github)](https://github.com/SmartBot-Guild)
-[![GitHub Organization](https://img.shields.io/badge/GitHub-dev-forks-collection-181717?logo=github)](https://github.com/dev-forks-collection)
-[![Active Projects](https://img.shields.io/badge/Active_Projects-42+-purple)]()
-[![Community](https://img.shields.io/badge/Community-1000+-blue)]()
+[![GitHub Organization](https://img.shields.io/badge/GitHub-dev_forks_collection-181717?logo=github)](https://github.com/dev-forks-collection)
+[![GitHub Organization](https://img.shields.io/badge/GitHub-SmartBot_Guild-181717?logo=github)](https://github.com/SmartBot-Guild)
+
 
 *Une communauté d'excellence pour les étudiants de 42*
 
@@ -64,20 +62,14 @@
 ## 🌟 Commencez l'Aventure
 
 1. **Rejoignez la communauté**
-   ```bash
-   # 1. Rejoignez notre Discord
-   https://discord.gg/42-academy
-   
-   # 2. Explorez nos repositories
-   https://github.com/42-academy
-   ```
 
-2. **Choisissez votre voie**
+   [![Discord](https://img.shields.io/discord/1234567890?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/42-academy)
+3. **Choisissez votre voie**
    - 🎯 Cursus standard
    - 🚀 Fast-track avancé
    - 🔍 Spécialisation
 
-3. **Contribuez et évoluez**
+4. **Contribuez et évoluez**
    - Participez aux projets
    - Partagez vos connaissances
    - Grandissez avec la communauté
