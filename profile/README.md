@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 Mission
-**42-academy** est une communauté dédiée aux étudiants de 42, ayant pour objectif de :
+**42-academy** est une organisation dédiée aux étudiants de 42, ayant pour objectif de :
 - Offrir un espace d’entraide et de collaboration pour résoudre les défis du cursus.
 - Fournir des ressources pédagogiques, outils, et guides pour accompagner les étudiants dans leurs projets.
 - Créer une communauté dynamique où les étudiants peuvent partager leurs connaissances et progresser ensemble.
@@ -49,9 +49,8 @@ Voici un glossaire pour vous aider à mieux comprendre certains termes et concep
 **42-academy** est organisée de manière à vous offrir toutes les ressources nécessaires pour réussir vos projets et exercices, avec une structure claire :
 
 1. **Dépôts et ressources** : Des répertoires contenant des templates, des scripts, des tutoriels et des guides pour chaque projet.
-2. **Forum et discussions** : Un espace pour poser vos questions, répondre à celles des autres, et échanger des idées avec vos pairs.
+2. **Forum et discussions** : Utilisez le [Discord de 42-academy](https://discord.com/invite/42-academy) pour poser vos questions, répondre à celles des autres, et échanger des idées avec vos pairs.
 3. **Ressources supplémentaires** : Des liens vers des tutoriels externes, des articles et des guides pour renforcer vos connaissances en programmation.
-4. **Suivi de la progression** : Un outil ou un espace permettant de suivre vos progrès dans chaque cercle du cursus.
 
 ---
 
@@ -120,11 +119,7 @@ Nous encourageons tout le monde à participer activement à l’amélioration de
 ---
 
 ## 💬 Communauté et support
-Rejoignez nos espaces d’échange pour poser vos questions, partager des idées ou demander de l’aide :
-
-- **Slack Channel** : #infinity42 (Demandez une invitation si nécessaire.)
-- **GitHub Discussions** : [Lien vers Discussions](https://github.com/orgs/Infinity42/discussions)
-- **Forum 42** : Partagez vos questions et solutions avec d'autres étudiants.
+Rejoignez notre **[Discord de 42-academy](https://discord.com/invite/42-academy)** pour poser vos questions, partager des idées ou demander de l’aide. C'est l'endroit idéal pour échanger avec vos pairs, discuter des projets, et obtenir des réponses rapides.
 
 ---
 
