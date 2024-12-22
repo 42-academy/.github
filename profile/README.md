@@ -11,10 +11,12 @@
 [![GitHub Organization](https://img.shields.io/badge/GitHub-42_DevTools-181717?logo=github)](https://github.com/42-DevTools)
 
 *Une communauté d'excellence pour les étudiants de 42*
-
-<img src="/api/placeholder/800/400" alt="42 Academy Banner">
-
 </div>
+
+
+<p align="center">
+  <img src="images/scifi_room.gif" alt="Welcome to my GitHub profile!">
+</p>
 
 ---
 
