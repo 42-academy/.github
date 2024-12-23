@@ -97,7 +97,8 @@
 
 <br>
 
-*Devenir 
+*Perfectionnement*
+
 <details>
 <summary><strong>🛠️ Environnement Dev - Optimisez votre environnement</strong></summary>
 
