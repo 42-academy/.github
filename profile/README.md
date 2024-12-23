@@ -52,6 +52,33 @@
 ## 🚀 Notre Écosystème
 <br>
 <details>
+<summary><strong>📘 Guidelines - Excellez dans votre parcours 42</strong></summary>
+
+- [**42-guidelines**](https://github.com/404)
+
+  - Guides par cercle (0-6)
+  - Documentation technique détaillée
+  - Solutions validées et commentées
+  - Tests unitaires & débogage
+  - Best practices par projet
+  - Astuces d'optimisation
+  - Templates de projet
+</details>
+
+<details>
+<summary><strong>🎓 Formation Continue - Perfectionnez vos compétences</strong></summary>
+
+- [**42-Learning**](https://github.com/42-Learning)
+
+  - Clean Code Guidelines
+  - Design Patterns en C/C++
+  - Architecture logicielle
+  - Structures de données
+  - Algorithmes avancés
+  - Documentation technique
+</details>
+
+<details>
 <summary><strong>🛡️ Sécurité & DevOps - Sécurisez vos applications, maîtrisez l'infrastructure</strong></summary>
 
 - [**CyberOpsHub**](https://github.com/CyberOpsHub)
@@ -91,20 +118,6 @@
 </details>
 
 <details>
-<summary><strong>📘 Guidelines - Excellez dans votre parcours 42</strong></summary>
-
-- [**42-guidelines**](https://github.com/404)
-
-  - Guides par cercle (0-6)
-  - Documentation technique détaillée
-  - Solutions validées et commentées
-  - Tests unitaires & débogage
-  - Best practices par projet
-  - Astuces d'optimisation
-  - Templates de projet
-</details>
-
-<details>
 <summary><strong>💼 Carrière & Progression - Construisez votre avenir professionnel</strong></summary>
 
 - [**42-Career-Hub**](https://github.com/42-Career-Hub)
@@ -115,19 +128,6 @@
   - Suivi de progression cursus
   - Guides stages/alternance
   - Veille technologique
-</details>
-
-<details>
-<summary><strong>🎓 Formation Continue - Perfectionnez vos compétences</strong></summary>
-
-- [**42-Learning**](https://github.com/42-Learning)
-
-  - Clean Code Guidelines
-  - Design Patterns en C/C++
-  - Architecture logicielle
-  - Structures de données
-  - Algorithmes avancés
-  - Documentation technique
 </details>
 
 <details>
