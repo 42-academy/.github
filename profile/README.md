@@ -51,6 +51,9 @@
 
 ## 🚀 Notre Écosystème
 <br>
+
+*Cursus*
+
 <details>
 <summary><strong>📘 Guidelines - Excellez dans votre parcours 42</strong></summary>
 
@@ -94,6 +97,7 @@
 
 <br>
 
+*Devenir 
 <details>
 <summary><strong>🛠️ Environnement Dev - Optimisez votre environnement</strong></summary>
 
