@@ -206,19 +206,19 @@ git push origin feature/votre-contribution
 
 <details>
 <summary><strong>Comment commencer avec 42 Academy ?</strong></summary>
-
+<br>
 Rejoignez notre Discord, explorez nos repositories GitHub, et n'hésitez pas à poser des questions dans nos forums communautaires.
 </details>
 
 <details>
 <summary><strong>Faut-il être étudiant à 42 pour utiliser ces ressources ?</strong></summary>
-
+<br>
 Bien que principalement destinées aux étudiants de 42, la plupart de nos ressources sont open-source et accessibles à tous les passionnés de programmation.
 </details>
 
 <details>
 <summary><strong>Comment puis-je contribuer si je suis débutant ?</strong></summary>
-
+<br>
 Commencez par explorer nos projets, signalez des bugs, proposez des améliorations de documentation, ou participez aux discussions. Chaque contribution compte !
 </details>
 
