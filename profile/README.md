@@ -78,6 +78,22 @@
   - Documentation technique
 </details>
 
+
+<details>
+<summary><strong>💼 Carrière & Progression - Construisez votre avenir professionnel</strong></summary>
+
+- [**42-Career-Hub**](https://github.com/42-Career-Hub)
+
+  - Templates CV tech
+  - Préparation entretiens techniques
+  - Ressources portfolio dev
+  - Suivi de progression cursus
+  - Guides stages/alternance
+  - Veille technologique
+</details>
+
+<br>
+
 <details>
 <summary><strong>🛡️ Sécurité & DevOps - Sécurisez vos applications, maîtrisez l'infrastructure</strong></summary>
 
@@ -115,19 +131,6 @@
   - Bibliothèques modifiées cursus
   - Debuggers customisés
   - jeux educatif
-</details>
-
-<details>
-<summary><strong>💼 Carrière & Progression - Construisez votre avenir professionnel</strong></summary>
-
-- [**42-Career-Hub**](https://github.com/42-Career-Hub)
-
-  - Templates CV tech
-  - Préparation entretiens techniques
-  - Ressources portfolio dev
-  - Suivi de progression cursus
-  - Guides stages/alternance
-  - Veille technologique
 </details>
 
 <details>
