@@ -50,13 +50,12 @@
 <br>
 
 ## 🚀 Notre Écosystème
-
 <br>
 <details>
 <summary><strong>🛡️ Sécurité & DevOps - Sécurisez vos applications, maîtrisez l'infrastructure</strong></summary>
 
 - [**CyberOpsHub**](https://github.com/CyberOpsHub)
-
+  
   - Challenges & CTF
   - Guides de sécurité applicative
   - Configuration DevSecOps
@@ -67,37 +66,35 @@
 </details>
 
 <details>
-<summary style="padding: 20px; background-color: #f6f8fa; border: 1px solid #ddd; cursor: pointer;">🤖 <strong>Automatisation</strong> - Automatisez les tâches répétitives, gagnez en efficacité</summary>
-<div style="padding: 20px;">
+<summary><strong>🤖 Automatisation - Automatisez les tâches répétitives, gagnez en efficacité</strong></summary>
 
-- &nbsp;&nbsp;&nbsp;&nbsp;[**SmartBot-Guild**](https://github.com/SmartBot-Guild)
+- [**SmartBot-Guild**](https://github.com/SmartBot-Guild)
+
   - Discord Bots (Modération, Support)
   - GitHub Actions & Workflows
   - Scripts d'automatisation cursus
   - Outils de peer-evaluation
   - Systèmes de monitoring
   - Intégrations API 42
-</div>
 </details>
 
 <details>
-<summary style="padding: 20px; background-color: #f6f8fa; border: 1px solid #ddd; cursor: pointer;">📚 <strong>Collection de Ressources</strong> - Une bibliothèque de projets optimisés</summary>
-<div style="padding: 20px;">
+<summary><strong>📚 Collection de Ressources - Une bibliothèque de projets optimisés</strong></summary>
 
-- &nbsp;&nbsp;&nbsp;&nbsp;[**dev-forks-collection**](https://github.com/dev-forks-collection)
+- [**dev-forks-collection**](https://github.com/dev-forks-collection)
+
   - Collections d'outils essentiels
   - Ressources pédagogiques améliorées
   - Bibliothèques modifiées cursus
   - Debuggers customisés
   - jeux educatif
-</div>
 </details>
 
 <details>
-<summary style="padding: 20px; background-color: #f6f8fa; border: 1px solid #ddd; cursor: pointer;">📘 <strong>Guidelines</strong> - Excellez dans votre parcours 42</summary>
-<div style="padding: 20px;">
+<summary><strong>📘 Guidelines - Excellez dans votre parcours 42</strong></summary>
 
-- &nbsp;&nbsp;&nbsp;&nbsp;[**42-guidelines**](https://github.com/404)
+- [**42-guidelines**](https://github.com/404)
+
   - Guides par cercle (0-6)
   - Documentation technique détaillée
   - Solutions validées et commentées
@@ -105,47 +102,43 @@
   - Best practices par projet
   - Astuces d'optimisation
   - Templates de projet
-</div>
 </details>
 
 <details>
-<summary style="padding: 20px; background-color: #f6f8fa; border: 1px solid #ddd; cursor: pointer;">💼 <strong>Carrière & Progression</strong> - Construisez votre avenir professionnel</summary>
-<div style="padding: 20px;">
+<summary><strong>💼 Carrière & Progression - Construisez votre avenir professionnel</strong></summary>
 
-- &nbsp;&nbsp;&nbsp;&nbsp;[**42-Career-Hub**](https://github.com/42-Career-Hub)
+- [**42-Career-Hub**](https://github.com/42-Career-Hub)
+
   - Templates CV tech
   - Préparation entretiens techniques
   - Ressources portfolio dev
   - Suivi de progression cursus
   - Guides stages/alternance
   - Veille technologique
-</div>
 </details>
 
 <details>
-<summary style="padding: 20px; background-color: #f6f8fa; border: 1px solid #ddd; cursor: pointer;">🎓 <strong>Formation Continue</strong> - Perfectionnez vos compétences</summary>
-<div style="padding: 20px;">
+<summary><strong>🎓 Formation Continue - Perfectionnez vos compétences</strong></summary>
 
-- &nbsp;&nbsp;&nbsp;&nbsp;[**42-Learning**](https://github.com/42-Learning)
+- [**42-Learning**](https://github.com/42-Learning)
+
   - Clean Code Guidelines
   - Design Patterns en C/C++
   - Architecture logicielle
   - Structures de données
   - Algorithmes avancés
   - Documentation technique
-</div>
 </details>
 
 <details>
-<summary style="padding: 20px; background-color: #f6f8fa; border: 1px solid #ddd; cursor: pointer;">🛠️ <strong>Environnement Dev</strong> - Optimisez votre environnement</summary>
-<div style="padding: 20px;">
+<summary><strong>🛠️ Environnement Dev - Optimisez votre environnement</strong></summary>
 
-- &nbsp;&nbsp;&nbsp;&nbsp;[**42-DevTools**](https://github.com/42-DevTools)
+- [**42-DevTools**](https://github.com/42-DevTools)
+
   - Configurations IDE (VSCode, Vim)
   - Scripts d'environnement 42
   - Outils de productivité
   - Profiling & Optimisation
-</div>
 </details>
 
 <br>
@@ -203,27 +196,21 @@ git push origin feature/votre-contribution
 ## ❓ FAQ pour Débutants
 
 <details>
-<summary style="padding: 20px; background-color: #f6f8fa; border: 1px solid #ddd; cursor: pointer;"><strong>Comment commencer avec 42 Academy ?</strong></summary>
-<div style="padding: 20px;">
+<summary><strong>Comment commencer avec 42 Academy ?</strong></summary>
 
 Rejoignez notre Discord, explorez nos repositories GitHub, et n'hésitez pas à poser des questions dans nos forums communautaires.
-</div>
 </details>
 
 <details>
-<summary style="padding: 20px; background-color: #f6f8fa; border: 1px solid #ddd; cursor: pointer;"><strong>Faut-il être étudiant à 42 pour utiliser ces ressources ?</strong></summary>
-<div style="padding: 20px;">
+<summary><strong>Faut-il être étudiant à 42 pour utiliser ces ressources ?</strong></summary>
 
 Bien que principalement destinées aux étudiants de 42, la plupart de nos ressources sont open-source et accessibles à tous les passionnés de programmation.
-</div>
 </details>
 
 <details>
-<summary style="padding: 20px; background-color: #f6f8fa; border: 1px solid #ddd; cursor: pointer;"><strong>Comment puis-je contribuer si je suis débutant ?</strong></summary>
-<div style="padding: 20px;">
+<summary><strong>Comment puis-je contribuer si je suis débutant ?</strong></summary>
 
 Commencez par explorer nos projets, signalez des bugs, proposez des améliorations de documentation, ou participez aux discussions. Chaque contribution compte !
-</div>
 </details>
 
 [Plus de FAQ](https://discord.gg/5Ezmt87Suv)
