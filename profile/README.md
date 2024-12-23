@@ -22,7 +22,6 @@
 <img src="https://github.com/42-academy/images/blob/c72b2be0938b3b5d6673ba93ea5f60f0caedb010/42_academy_logo.png" alt="42 Academy Logo">
 </div>
 
-
 ---
 
 > *"Together we code, together we grow"* 🌱
@@ -31,13 +30,15 @@
 ## 📘 À propos de 42
 
 42 est une école de programmation innovante, fondée sur l'apprentissage par les pairs et les projets pratiques. Sans professeurs traditionnels, les étudiants progressent à travers un cursus gamifié, développant non seulement des compétences techniques, mais aussi des soft skills essentielles comme l'autonomie, la collaboration et la résolution de problèmes.
-<br><br><br>
+
+<br><br>
 <div align="center">
     <a href="https://42lausanne.ch/" target="_blank"><img src="https://42lausanne.ch/wp-content/uploads/2021/01/42_logo.svg" alt="Ecole 42 Logo" width="200"></a>
 </div>
 <br>
 
 ## 🎯 Notre Vision
+
 42 Academy est un écosystème vivant créé par et pour les étudiants de 42. Notre mission est de transformer votre parcours d'apprentissage en une expérience extraordinaire, en rassemblant les meilleures ressources et outils au sein d'organisations spécialisées.
 
 <br>
@@ -50,10 +51,12 @@
 
 ## 🚀 Notre Écosystème
 
-### 🛡️ Sécurité & DevOps
-> *Sécurisez vos applications, maîtrisez l'infrastructure*
+<br>
+<details>
+<summary><strong>🛡️ Sécurité & DevOps - Sécurisez vos applications, maîtrisez l'infrastructure</strong></summary>
+
 - [**CyberOpsHub**](https://github.com/CyberOpsHub)
-  
+
   - Challenges & CTF
   - Guides de sécurité applicative
   - Configuration DevSecOps
@@ -61,32 +64,40 @@
   - Labs d'apprentissage
   - Documentation OWASP
   - bugbounty
-    
-### 🤖 Automatisation
-> *Automatisez les tâches répétitives, gagnez en efficacité*
-- [**SmartBot-Guild**](https://github.com/SmartBot-Guild)
-  
+</details>
+
+<details>
+<summary style="padding: 20px; background-color: #f6f8fa; border: 1px solid #ddd; cursor: pointer;">🤖 <strong>Automatisation</strong> - Automatisez les tâches répétitives, gagnez en efficacité</summary>
+<div style="padding: 20px;">
+
+- &nbsp;&nbsp;&nbsp;&nbsp;[**SmartBot-Guild**](https://github.com/SmartBot-Guild)
   - Discord Bots (Modération, Support)
   - GitHub Actions & Workflows
   - Scripts d'automatisation cursus
   - Outils de peer-evaluation
   - Systèmes de monitoring
   - Intégrations API 42
+</div>
+</details>
 
-### 📚 Collection de Ressources
-> *Une bibliothèque de projets optimisés*
-- [**dev-forks-collection**](https://github.com/dev-forks-collection)
-  
+<details>
+<summary style="padding: 20px; background-color: #f6f8fa; border: 1px solid #ddd; cursor: pointer;">📚 <strong>Collection de Ressources</strong> - Une bibliothèque de projets optimisés</summary>
+<div style="padding: 20px;">
+
+- &nbsp;&nbsp;&nbsp;&nbsp;[**dev-forks-collection**](https://github.com/dev-forks-collection)
   - Collections d'outils essentiels
   - Ressources pédagogiques améliorées
   - Bibliothèques modifiées cursus
   - Debuggers customisés
   - jeux educatif
-    
-### 📘 Guidelines
-> *Excellez dans votre parcours 42*
-- [**42-guidelines**](https://github.com/404)
-  
+</div>
+</details>
+
+<details>
+<summary style="padding: 20px; background-color: #f6f8fa; border: 1px solid #ddd; cursor: pointer;">📘 <strong>Guidelines</strong> - Excellez dans votre parcours 42</summary>
+<div style="padding: 20px;">
+
+- &nbsp;&nbsp;&nbsp;&nbsp;[**42-guidelines**](https://github.com/404)
   - Guides par cercle (0-6)
   - Documentation technique détaillée
   - Solutions validées et commentées
@@ -94,37 +105,48 @@
   - Best practices par projet
   - Astuces d'optimisation
   - Templates de projet
+</div>
+</details>
 
-### 💼 Carrière & Progression
-> *Construisez votre avenir professionnel*
-- [**42-Career-Hub**](https://github.com/42-Career-Hub)
-  
+<details>
+<summary style="padding: 20px; background-color: #f6f8fa; border: 1px solid #ddd; cursor: pointer;">💼 <strong>Carrière & Progression</strong> - Construisez votre avenir professionnel</summary>
+<div style="padding: 20px;">
+
+- &nbsp;&nbsp;&nbsp;&nbsp;[**42-Career-Hub**](https://github.com/42-Career-Hub)
   - Templates CV tech
   - Préparation entretiens techniques
   - Ressources portfolio dev
   - Suivi de progression cursus
   - Guides stages/alternance
   - Veille technologique
+</div>
+</details>
 
-### 🎓 Formation Continue
-> *Perfectionnez vos compétences*
-- [**42-Learning**](https://github.com/42-Learning)
-  
+<details>
+<summary style="padding: 20px; background-color: #f6f8fa; border: 1px solid #ddd; cursor: pointer;">🎓 <strong>Formation Continue</strong> - Perfectionnez vos compétences</summary>
+<div style="padding: 20px;">
+
+- &nbsp;&nbsp;&nbsp;&nbsp;[**42-Learning**](https://github.com/42-Learning)
   - Clean Code Guidelines
   - Design Patterns en C/C++
   - Architecture logicielle
   - Structures de données
   - Algorithmes avancés
   - Documentation technique
+</div>
+</details>
 
-### 🛠️ Environnement Dev
-> *Optimisez votre environnement*
-- [**42-DevTools**](https://github.com/42-DevTools)
-  
+<details>
+<summary style="padding: 20px; background-color: #f6f8fa; border: 1px solid #ddd; cursor: pointer;">🛠️ <strong>Environnement Dev</strong> - Optimisez votre environnement</summary>
+<div style="padding: 20px;">
+
+- &nbsp;&nbsp;&nbsp;&nbsp;[**42-DevTools**](https://github.com/42-DevTools)
   - Configurations IDE (VSCode, Vim)
   - Scripts d'environnement 42
   - Outils de productivité
   - Profiling & Optimisation
+</div>
+</details>
 
 <br>
 
@@ -180,14 +202,29 @@ git push origin feature/votre-contribution
 
 ## ❓ FAQ pour Débutants
 
-- **Q: Comment commencer avec 42 Academy ?**
-  R: Rejoignez notre Discord, explorez nos repositories GitHub, et n'hésitez pas à poser des questions dans nos forums communautaires.
+<details>
+<summary style="padding: 20px; background-color: #f6f8fa; border: 1px solid #ddd; cursor: pointer;"><strong>Comment commencer avec 42 Academy ?</strong></summary>
+<div style="padding: 20px;">
 
-- **Q: Faut-il être étudiant à 42 pour utiliser ces ressources ?**
-  R: Bien que principalement destinées aux étudiants de 42, la plupart de nos ressources sont open-source et accessibles à tous les passionnés de programmation.
+Rejoignez notre Discord, explorez nos repositories GitHub, et n'hésitez pas à poser des questions dans nos forums communautaires.
+</div>
+</details>
 
-- **Q: Comment puis-je contribuer si je suis débutant ?**
-  R: Commencez par explorer nos projets, signalez des bugs, proposez des améliorations de documentation, ou participez aux discussions. Chaque contribution compte !
+<details>
+<summary style="padding: 20px; background-color: #f6f8fa; border: 1px solid #ddd; cursor: pointer;"><strong>Faut-il être étudiant à 42 pour utiliser ces ressources ?</strong></summary>
+<div style="padding: 20px;">
+
+Bien que principalement destinées aux étudiants de 42, la plupart de nos ressources sont open-source et accessibles à tous les passionnés de programmation.
+</div>
+</details>
+
+<details>
+<summary style="padding: 20px; background-color: #f6f8fa; border: 1px solid #ddd; cursor: pointer;"><strong>Comment puis-je contribuer si je suis débutant ?</strong></summary>
+<div style="padding: 20px;">
+
+Commencez par explorer nos projets, signalez des bugs, proposez des améliorations de documentation, ou participez aux discussions. Chaque contribution compte !
+</div>
+</details>
 
 [Plus de FAQ](https://discord.gg/5Ezmt87Suv)
 
