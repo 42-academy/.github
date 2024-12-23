@@ -219,10 +219,7 @@ Commencez par explorer nos projets, signalez des bugs, proposez des amélioratio
 
 ---
 
+
 <div align="center">
-
-*Made with ❤️ from 42 Lausanne*
-
-<sub>*Part of my journey at École 42 - Exploring the depths of C programming*</sub>
-
+<sub>Fait avec ❤️ par la communauté 42-academy</sub>
 </div>
