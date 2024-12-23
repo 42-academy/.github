@@ -95,6 +95,30 @@
 <br>
 
 <details>
+<summary><strong>🛠️ Environnement Dev - Optimisez votre environnement</strong></summary>
+
+- [**42-DevTools**](https://github.com/42-DevTools)
+
+  - Configurations IDE (VSCode, Vim)
+  - Scripts d'environnement 42
+  - Outils de productivité
+  - Profiling & Optimisation
+</details>
+
+<details>
+<summary><strong>📚 Collection de Ressources - Une bibliothèque de projets optimisés</strong></summary>
+
+- [**dev-forks-collection**](https://github.com/dev-forks-collection)
+
+  - Collections d'outils essentiels
+  - Ressources pédagogiques améliorées
+  - Bibliothèques modifiées cursus
+  - Debuggers customisés
+  - jeux educatif
+</details>
+
+
+<details>
 <summary><strong>🛡️ Sécurité & DevOps - Sécurisez vos applications, maîtrisez l'infrastructure</strong></summary>
 
 - [**CyberOpsHub**](https://github.com/CyberOpsHub)
@@ -119,29 +143,6 @@
   - Outils de peer-evaluation
   - Systèmes de monitoring
   - Intégrations API 42
-</details>
-
-<details>
-<summary><strong>📚 Collection de Ressources - Une bibliothèque de projets optimisés</strong></summary>
-
-- [**dev-forks-collection**](https://github.com/dev-forks-collection)
-
-  - Collections d'outils essentiels
-  - Ressources pédagogiques améliorées
-  - Bibliothèques modifiées cursus
-  - Debuggers customisés
-  - jeux educatif
-</details>
-
-<details>
-<summary><strong>🛠️ Environnement Dev - Optimisez votre environnement</strong></summary>
-
-- [**42-DevTools**](https://github.com/42-DevTools)
-
-  - Configurations IDE (VSCode, Vim)
-  - Scripts d'environnement 42
-  - Outils de productivité
-  - Profiling & Optimisation
 </details>
 
 <br>
