@@ -104,10 +104,10 @@
 
 - [**42-Gaming**](https://github.com/42-Gaming)
 
-  - 🎮 Jeux de programmation sélectionnés et testés
-  - 🛠️ Outils d'apprentissage interactifs validés
-  - 🔧 Environnements de pratique sécurisés
-  - 💡 Défis de programmation progressifs
+  - Jeux de programmation sélectionnés et testés
+  - Outils d'apprentissage interactifs validés
+  - Environnements de pratique sécurisés
+  - Défis de programmation progressifs
 
 </details>
 
