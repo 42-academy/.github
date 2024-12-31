@@ -10,7 +10,7 @@
 [![GitHub Organization](https://img.shields.io/badge/GitHub-42_Gaming-181717?logo=github)](https://github.com/42-Gaming)
 [![GitHub Organization](https://img.shields.io/badge/GitHub-42_Career_Hub-181717?logo=github)](https://github.com/42-Career-Hub)
 [![GitHub Organization](https://img.shields.io/badge/GitHub-42_Wiki-181717?logo=github)](https://github.com/42-Wiki)
-[![GitHub Organization](https://img.shields.io/badge/GitHub-42_Survival-Guide-181717?logo=github)](https://github.com/42-Survival-Guide)
+[![GitHub Organization](https://img.shields.io/badge/GitHub-42_Survival_Guide-181717?logo=github)](https://github.com/42-Survival-Guide)
 
 <br>
 
