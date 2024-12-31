@@ -100,9 +100,9 @@
 *Perfectionnement*
 
 <details>
-<summary><strong>🛠️ Environnement Dev - Optimisez votre environnement</strong></summary>
+<summary><strong>🎮 42-Gaming - Collection de ressources éducatives et ludiques</strong></summary>
 
-- [**42-DevTools**](https://github.com/42-DevTools)
+- [**42-Gaming**](https://github.com/42-Gaming)
 
   - Configurations IDE (VSCode, Vim)
   - Scripts d'environnement 42
@@ -119,6 +119,10 @@
   - Ressources pédagogiques améliorées
   - Bibliothèques modifiées cursus
   - Debuggers customisés
+  - Configurations IDE (VSCode, Vim)
+  - Scripts d'environnement 42
+  - Outils de productivité
+  - Profiling & Optimisation
 </details>
 
 
