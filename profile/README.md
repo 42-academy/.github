@@ -119,7 +119,6 @@
   - Ressources pédagogiques améliorées
   - Bibliothèques modifiées cursus
   - Debuggers customisés
-  - jeux educatif
 </details>
 
 
