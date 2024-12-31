@@ -104,10 +104,11 @@
 
 - [**42-Gaming**](https://github.com/42-Gaming)
 
-  - Configurations IDE (VSCode, Vim)
-  - Scripts d'environnement 42
-  - Outils de productivité
-  - Profiling & Optimisation
+  - 🎮 Jeux de programmation sélectionnés et testés
+  - 🛠️ Outils d'apprentissage interactifs validés
+  - 🔧 Environnements de pratique sécurisés
+  - 💡 Défis de programmation progressifs
+
 </details>
 
 <details>
