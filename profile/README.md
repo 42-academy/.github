@@ -55,7 +55,7 @@
 *Cursus*
 
 <details>
-<summary><strong>📘 Survival-Guide - Excellez dans votre parcours 42</strong></summary>
+<summary><strong>📘 Survival Guide - Excellez dans votre parcours 42</strong></summary>
 
 - [**42-Survival-Guide**](https://github.com/42-Survival-Guide)
 
