@@ -55,9 +55,9 @@
 *Cursus*
 
 <details>
-<summary><strong>📘 Guidelines - Excellez dans votre parcours 42</strong></summary>
+<summary><strong>📘 Survival-Guide - Excellez dans votre parcours 42</strong></summary>
 
-- [**42-guidelines**](https://github.com/404)
+- [**42-Survival-Guide**](https://github.com/42-Survival-Guide)
 
   - Guides par cercle (0-6)
   - Documentation technique détaillée
@@ -71,7 +71,7 @@
 <details>
 <summary><strong>🎓 Formation Continue - Perfectionnez vos compétences</strong></summary>
 
-- [**42-Learning**](https://github.com/42-Learning)
+- [**42-Wiki**](https://github.com/42-Wiki)
 
   - Clean Code Guidelines
   - Design Patterns en C/C++
